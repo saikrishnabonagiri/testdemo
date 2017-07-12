@@ -1,0 +1,29 @@
+Completed 271 Bytes/~544 Bytes (4.7 KiB/s) with ~4 file(s) remaining (calculating...)upload: .git/config to s3://murex-cof/s3demo-shell/.git/config                       
+Completed 271 Bytes/~544 Bytes (4.7 KiB/s) with ~3 file(s) remaining (calculating...)Completed 503 Bytes/~4.4 KiB (5.1 KiB/s) with ~6 file(s) remaining (calculating...)  upload: .git/FETCH_HEAD to s3://murex-cof/s3demo-shell/.git/FETCH_HEAD               
+Completed 503 Bytes/~4.4 KiB (5.1 KiB/s) with ~5 file(s) remaining (calculating...)Completed 532 Bytes/~4.4 KiB (5.4 KiB/s) with ~5 file(s) remaining (calculating...)upload: .git/HEAD to s3://murex-cof/s3demo-shell/.git/HEAD                         
+Completed 532 Bytes/~4.4 KiB (5.4 KiB/s) with ~4 file(s) remaining (calculating...)Completed 544 Bytes/~4.4 KiB (4.9 KiB/s) with ~4 file(s) remaining (calculating...)upload: .git/COMMIT_EDITMSG to s3://murex-cof/s3demo-shell/.git/COMMIT_EDITMSG     
+Completed 544 Bytes/~4.4 KiB (4.9 KiB/s) with ~3 file(s) remaining (calculating...)Completed 2.5 KiB/~4.4 KiB (22.1 KiB/s) with ~3 file(s) remaining (calculating...) upload: .git/index to s3://murex-cof/s3demo-shell/.git/index                       
+Completed 2.5 KiB/~4.4 KiB (22.1 KiB/s) with ~2 file(s) remaining (calculating...)Completed 4.3 KiB/~4.5 KiB (27.2 KiB/s) with ~4 file(s) remaining (calculating...)upload: .git/logs/HEAD to s3://murex-cof/s3demo-shell/.git/logs/HEAD              
+Completed 4.3 KiB/~4.5 KiB (27.2 KiB/s) with ~3 file(s) remaining (calculating...)Completed 4.4 KiB/~4.6 KiB (24.4 KiB/s) with ~4 file(s) remaining (calculating...)upload: .git/info/exclude to s3://murex-cof/s3demo-shell/.git/info/exclude        
+Completed 4.4 KiB/~4.6 KiB (24.4 KiB/s) with ~3 file(s) remaining (calculating...)Completed 4.5 KiB/~4.6 KiB (24.6 KiB/s) with ~3 file(s) remaining (calculating...)upload: .git/objects/dc/f3fc27c50c94ee990dc4a4739e4651f92d12d1 to s3://murex-cof/s3demo-shell/.git/objects/dc/f3fc27c50c94ee990dc4a4739e4651f92d12d1
+Completed 4.5 KiB/~4.6 KiB (24.6 KiB/s) with ~2 file(s) remaining (calculating...)Completed 4.5 KiB/~4.6 KiB (24.1 KiB/s) with ~3 file(s) remaining (calculating...)upload: .git/objects/de/036b14ea32c1877554d2fbe72ea0a64c57492b to s3://murex-cof/s3demo-shell/.git/objects/de/036b14ea32c1877554d2fbe72ea0a64c57492b
+Completed 4.5 KiB/~4.6 KiB (24.1 KiB/s) with ~2 file(s) remaining (calculating...)Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~4 file(s) remaining (calculating...)upload: .git/objects/55/2385becbdcf629e7c11abd570f8aa4288ec5cf to s3://murex-cof/s3demo-shell/.git/objects/55/2385becbdcf629e7c11abd570f8aa4288ec5cf
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~3 file(s) remaining (calculating...)upload: ./c.o to s3://murex-cof/s3demo-shell/c.o                                  
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~6 file(s) remaining (calculating...)upload: ./a.o to s3://murex-cof/s3demo-shell/a.o                                  
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~5 file(s) remaining (calculating...)upload: ./demo.degub to s3://murex-cof/s3demo-shell/demo.degub                    
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~5 file(s) remaining (calculating...)upload: ./demo.grc to s3://murex-cof/s3demo-shell/demo.grc                        
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~4 file(s) remaining (calculating...)upload: bonagiri/jjaa.html to s3://murex-cof/s3demo-shell/bonagiri/jjaa.html      
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~3 file(s) remaining (calculating...)upload: ./demo.sh to s3://murex-cof/s3demo-shell/demo.sh                          
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~4 file(s) remaining (calculating...)upload: ./demo.py to s3://murex-cof/s3demo-shell/demo.py                          
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~3 file(s) remaining (calculating...)upload: ./b.o to s3://murex-cof/s3demo-shell/b.o                                  
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~2 file(s) remaining (calculating...)upload: ./demo.html to s3://murex-cof/s3demo-shell/demo.html                      
+Completed 4.6 KiB/~4.6 KiB (22.1 KiB/s) with ~1 file(s) remaining (calculating...)upload: new/2.mxres to s3://murex-cof/s3demo-shell/new/2.mxres                    
+Completed 4.6 KiB/~8.7 KiB (22.1 KiB/s) with ~6 file(s) remaining (calculating...)upload: new/1.mxres to s3://murex-cof/s3demo-shell/new/1.mxres                    
+Completed 4.6 KiB/~8.7 KiB (22.1 KiB/s) with ~5 file(s) remaining (calculating...)upload: new2/yy.py to s3://murex-cof/s3demo-shell/new2/yy.py                      
+Completed 4.6 KiB/~8.7 KiB (22.1 KiB/s) with ~5 file(s) remaining (calculating...)Completed 8.7 KiB/~8.7 KiB (24.9 KiB/s) with ~6 file(s) remaining (calculating...)upload: ./s3output to s3://murex-cof/s3demo-shell/s3output                        
+Completed 8.7 KiB/~8.7 KiB (24.9 KiB/s) with ~5 file(s) remaining (calculating...)upload: ./pogo.tar to s3://murex-cof/s3demo-shell/pogo.tar                        
+Completed 8.7 KiB/~8.7 KiB (24.9 KiB/s) with ~5 file(s) remaining (calculating...)upload: testdemo-dontcopy/secrect.docx to s3://murex-cof/s3demo-shell/testdemo-dontcopy/secrect.docx
+Completed 8.7 KiB/8.7 KiB (24.9 KiB/s) with 4 file(s) remainingupload: sai/333.py to s3://murex-cof/s3demo-shell/sai/333.py   
+Completed 8.7 KiB/8.7 KiB (24.9 KiB/s) with 3 file(s) remainingupload: new2/jj.cmd to s3://murex-cof/s3demo-shell/new2/jj.cmd 
+Completed 8.7 KiB/8.7 KiB (24.9 KiB/s) with 2 file(s) remainingupload: sample/sample.sh to s3://murex-cof/s3demo-shell/sample/sample.sh
+Completed 8.7 KiB/8.7 KiB (24.9 KiB/s) with 1 file(s) remainingupload: krishna/kiki.sh to s3://murex-cof/s3demo-shell/krishna/kiki.sh
